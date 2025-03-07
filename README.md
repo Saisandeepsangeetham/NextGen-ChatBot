@@ -119,7 +119,14 @@ cd NextGen-ChatBot
 ---
 
 ## *📷 Screenshots*
-> Add screenshots here to showcase the UI
+### Home Page
+> ![image-alt](https://github.com/Saisandeepsangeetham/NextGen-ChatBot/blob/main/Assets/Home%20Page.png?raw=true)
+### Login Page
+> ![image-alt](https://github.com/Saisandeepsangeetham/NextGen-ChatBot/blob/main/Assets/Login.png?raw=true)
+### Signup Page
+> ![image-alt](https://github.com/Saisandeepsangeetham/NextGen-ChatBot/blob/main/Assets/Sign%20Up.png?raw=true)
+### Chat Page
+> ![image-alt](https://github.com/Saisandeepsangeetham/NextGen-ChatBot/blob/main/Assets/Chat%20Page.png?raw=true)
 
 ---
 
