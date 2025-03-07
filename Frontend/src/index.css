@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital@0;1&display=swap');
+html,body{
+    margin: 0;
+    padding: 0;
+    background: #05101c;
+    color: white;
+    font-family: "Montserrat", serif;
+}
+
+.image-inverted {
+    filter: brightness(100%);
+}
+
+.nav-link {
+    font-weight: 600;
+    font-size: medium;
+    margin-left: 20px;
+    margin-right: 8px;
+    padding: 8px 14px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 10px;
+    border: none;
+}
