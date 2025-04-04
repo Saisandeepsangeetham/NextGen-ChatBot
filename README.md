@@ -150,6 +150,3 @@ For any queries, feel free to reach out:
 - GitHub: [Saisandeepsangeetham](https://github.com/Saisandeepsangeetham)
 - LinkedIn: [Saisandeep Sangeetham](https://linkedin.com/in/saisandeep-sangeetham)
 
----
-
-This README should help others understand and set up your *NextGen Chatbot* project. Let me know if you need any modifications! 🚀
